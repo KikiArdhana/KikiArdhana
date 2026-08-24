@@ -1,5 +1,15 @@
 ![Mario](img/github-header-banner.png)
 
+
+
+## 👨‍💻 About Me
+
+I'm a **Sistem Informasi student** interested in **business, technology, and data**.
+
+I enjoy understanding problems, figuring out what needs to be built, and turning ideas into practical solutions.
+
+Currently exploring **Business Analysis, Data Analytics, and web development** through hands-on projects.
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=KikiArdhana&label=PROFILE+VIEWS&style=for-the-badge&color=orange" />
@@ -13,7 +23,6 @@
 🧑‍💻 Code Enthusiast |
 🛠️ Building & Breaking Things |
 💻 Turning Ideas into Code |
-🚀 Always Building Something |
 ☕ Fueled by Coffee & Code |
 
 <div align="center">
