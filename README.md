@@ -1,4 +1,5 @@
-## Hi there! Im Kiki Bagus Ardhana 👋
+![Mario](img/github-header-banner.png)
+
 
 ####  🌱 I’m currently learning Business Analyst & Data Analytics
 - ⚡ Fun fact: I love vibecoding, watching film
