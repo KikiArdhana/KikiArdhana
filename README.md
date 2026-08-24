@@ -2,7 +2,7 @@
 
 
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a **Sistem Informasi student** interested in **business, technology, and data**.
 
