@@ -1,5 +1,7 @@
 ![Mario](img/github-header-banner.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KikiArdhana&style=for-the-badge&color=orange)
+
 🌱 Learning by Building |
 ⚡ VibeCoder |
 🧑‍💻 Code Enthusiast |
@@ -21,9 +23,5 @@
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=kikiardhana&theme=radical&issues=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
 
-<img src="https://streak-stats.demolab.com?user=KikiArdhana&theme=default&hide_border=true" alt="KikiArdhana's GitHub Stats" />
-
 
 ![Mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-s
