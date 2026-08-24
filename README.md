@@ -41,7 +41,10 @@ Currently exploring **Business Analysis, Data Analytics, and web development** t
 
 ### My Github Stats
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=kikiardhana&theme=radical&issues=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=kikiardhana&theme=radical&issues=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator) ![GitHub Streak](https://streak-stats.demolab.com/?user=KikiArdhana&theme=dark)
+
+
+
 
 
 ![Mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
