@@ -1,6 +1,12 @@
 ![Mario](img/github-header-banner.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KikiArdhana&style=for-the-badge&color=orange)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KikiArdhana&label=PROFILE+VIEWS&style=for-the-badge&color=orange" />
+
+</div>
+
+<hr>
 
 🌱 Learning by Building |
 ⚡ VibeCoder |
@@ -10,10 +16,15 @@
 🚀 Always Building Something |
 ☕ Fueled by Coffee & Code |
 
+<div align="center">
+
 ### Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kikiardhanaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kikiardhana/)
 
+<hr>
+
+</div>
 
 ### Languages & Framework
 
