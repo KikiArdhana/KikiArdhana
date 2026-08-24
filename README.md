@@ -1,4 +1,4 @@
-## Hi there! Im Kiki Bagus Ardhana 👋
+# Hi there! Im Kiki Bagus Ardhana 👋
 
 ####  🌱 I’m currently learning Business Analyst & Data Analytics
 - ⚡ Fun fact: I love vibecoding, watching film
