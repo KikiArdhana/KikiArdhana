@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Information System student** interested in **business, technology, and data**.
+I'm an **Information Systems student** interested in **business, tech, and data**.
 
-I enjoy understanding problems, figuring out what needs to be built, and turning ideas into practical solutions.
+I enjoy building things, solving problems, and learning by actually trying things out.
 
-Currently exploring **Business Analysis, Data Analytics, and web development** through hands-on projects.
+Currently exploring **Business Analysis, Data Analytics, and Web development** through personal projects and hands-on learning.
 
 <hr>
 
