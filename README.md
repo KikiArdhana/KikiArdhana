@@ -20,7 +20,6 @@ Currently exploring **Business Analysis, Data Analytics, and Web development** t
 <hr>
 
 🌱 Learning by Building |
-⚡ VibeCoder |
 🧑‍💻 Code Enthusiast |
 🛠️ Building & Breaking Things |
 💻 Turning Ideas into Code |
