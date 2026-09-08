@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an **Information Systems student** interested in **business, tech, and data**.
+I'm an **Information Systems student** interested in **Business, Tech, and Data**.
 
 I enjoy building things, solving problems, and learning by actually trying things out.
 
